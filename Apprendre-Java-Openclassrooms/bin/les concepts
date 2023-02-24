@@ -1,0 +1,30 @@
++ Un package regroupe des classes liées entre elles.
++ Un module est un ensemble des fichiers sources associées à un nom, comme un Framework.
++ Un framework est un ensemble de fonctionnalités regroupées par contexte particulier. 
+  Ceci permet d'accélérer le processus de développement en donnant des conseils sur la façon d'érire le code.
+
++ Désigner un niveau de contrôle:
+  public, protected, package-protected, private
+  
++ L'héritage: est le concept fondamental EN Java qui permet de réutiliser du code de la classe mére.
++ Le polymorphisme: permet de surcharger les méthodes de la classe mére pour rédefinir leurs comportements sans changer
+  leur signature.
+  
++ Les fonctions peuvent avoir des paramètres et des valeurs de retour (return).
+
++ Une valeur de retour est le résultat de l'exécution de la fonction. 
+  Elle peut être renvoyée au bloc de code qui a appelé la fonction, et être utilisée si besoin est.
+
++ Les paramètres sont les entrées d'une fonction nécessaires à l'exécution et à l'obtention d'un résultat.
+
++ Les paramètres sont des variables définies par leur nom et par leur type. 
+  Ces paramètres sont spécifiés dans la déclaration de la fonction.
+
++ Lorsque vous appelez une fonction, vous passez des valeurs à ces variables. Ces valeurs sont appelées arguments. 
+
++ La récursivité est une action qui s'initialise à l'intérieur d'elle-même.
+
++ Les méthodes récursives servent à passer des structures en couches.
+
++ Le débogage est un processus qui consiste à suivre le programme ligne par ligne et à observer l'état des variables
+  dans l'environnement de développement.
